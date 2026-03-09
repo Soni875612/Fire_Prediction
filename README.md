@@ -271,9 +271,10 @@ fire-prediction/
 
 ### Soni
 
-*AI & Machine Learning — Project*
+*AI & Machine Learning — College Assignment*
 
-[(https://github.com/Soni875612)]
+[https://github.com/Soni875612]
+
 </div>
 
 ---
