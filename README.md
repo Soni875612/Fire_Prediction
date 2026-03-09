@@ -94,14 +94,14 @@
 
 ### 🎯 Fire Risk Predictor
 ```
-<img width="1919" height="891" alt="Screenshot 2026-03-09 222106" src="https://github.com/user-attachments/assets/303286ee-23a7-4ad4-94b0-725f9cc3bdaa" />
+<img width="1919" height="906" alt="Screenshot 2026-03-09 222209" src="https://github.com/user-attachments/assets/e3e82777-2940-44a3-ba0a-3c20fc664d0f" />
+
 
 ```
 > *Shows: Input sliders · Real-time prediction · Probability bar chart*
 
 ---
 
-> 💡 **Tip:** You can also use [Streamlit's built-in screenshot](https://docs.streamlit.io) or Windows Snipping Tool (`Win + Shift + S`)
 
 ---
 
